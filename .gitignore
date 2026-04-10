@@ -1,0 +1,19 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# Uploads (user data - don't push to GitHub)
+uploads/
+
+# Data files with sensitive info (optional)
+# data/users.json
+# data/otp_log.json
+
+# OS
+.DS_Store
+Thumbs.db
